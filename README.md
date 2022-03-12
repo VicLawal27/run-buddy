@@ -1,6 +1,4 @@
 # run-buddy
-<<<<<<< HEAD
-=======
 
 ## Purpose
 A website that offers fitness training services.
@@ -14,4 +12,3 @@ https://viclawal27.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Victor Lawal
->>>>>>> main
